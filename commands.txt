@@ -1,0 +1,6 @@
+Install
+wusa.exe .\file.msu /quiet /norestart -Wait
+
+Uninstall
+
+wusa.exe /uninstall /kb:kb_name /quiet
